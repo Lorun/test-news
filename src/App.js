@@ -7,6 +7,7 @@ import News from './components/Page/News';
 import Home from './components/Page/Home';
 import authProtected from './components/HOCs/authProtected';
 
+// Application entry
 class App extends Component {
 
     render() {
